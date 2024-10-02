@@ -1,4 +1,5 @@
 🛒 Ecommerce MERN Stack Project
+
 This project is a fully-functional Ecommerce web application built using the MERN stack.
 It demonstrates a comprehensive range of features designed to provide an optimal user experience for both customers and administrators.
 
