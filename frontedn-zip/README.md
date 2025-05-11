@@ -1,6 +1,5 @@
 # E-Commerce Full Stack Project
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
@@ -79,19 +78,6 @@ Example:
 
 Contributions are welcome! If you find any bugs or want to add new features, please submit an issue or create a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to contact me:
-
-- Ashok Zarmariya
-- ashokzarmariya47@gmail.com
-- [Linkedin](https://www.linkedin.com/in/ashok-zarmariya-473aa722a/)
-
-Feel free to customize the README to include more specific information about your project. Good luck with your eCommerce full-stack application!
 
 ## ScreenShots
 
